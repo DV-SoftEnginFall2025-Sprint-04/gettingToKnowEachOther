@@ -4,7 +4,7 @@ title: Sprint 4 Backlog
 permalink: /backlogs/sprint-04-backlog/
 ---
 
-# 📋 Sprint 04 Backlog – *Insurance Risk Calculator*
+# 📋 Sprint 04 Backlog – *Health Insurance Risk Calculator*
 
 Scrum Master: Diego Velasco
 
